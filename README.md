@@ -1,4 +1,4 @@
- ### Hi there 👋, my name is Mobasharul Islam
+ ### Hi there 👋, My Name is Mobasharul Islam
 ####   A passionate  developer
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mobashsarulislam26&show_icons=true&theme=cobalt)  
 
